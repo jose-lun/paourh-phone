@@ -13,7 +13,7 @@ let step1path = [];
 let counter = 0;
 
 let totalScroll = 0;
-let scrollCoord = 1700;
+let scrollCoord = 100;
 let visible = false;
 
 let theta1 = 0;
